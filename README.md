@@ -1,7 +1,8 @@
-# Sales Analysis
+# <p align="center">Sales Analysis</p>
 <p align="center">
   <img src="https://i.pinimg.com/originals/8e/76/4c/8e764c45640d96a461d67b193c772cb8.jpg" alt="Sales" width="400">
 </p>
+
 
 
 ## Overview
