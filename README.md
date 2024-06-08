@@ -27,7 +27,7 @@ The visualizations and insights from this project will be useful for the followi
 ### Data Sources
 The data used in this project is sourced from a Kaggle dataset, which can be found [here](https://www.kaggle.com/datasets/virtualschool/e-commerce-dataset/data).
 
-### Data Types
+### Data
 - **Customer Demographics:** `CustomerID`, `Gender`, `Country`
 - **Sales Transactions:** `InvoiceDate`, `InvoiceNumber`, `ProductID`, `Quantity`, `Price`, `Total`, `OrderStatus`, `Sales`
 - **Customer Interactions:** `TrafficSource`, `SessionDuration`, `DeviceCategory`, `Device`, `OS`
