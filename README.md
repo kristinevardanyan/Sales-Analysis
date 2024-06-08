@@ -28,10 +28,10 @@ The visualizations and insights from this project will be useful for the followi
 The data used in this project is sourced from a Kaggle dataset, which can be found [here](https://www.kaggle.com/datasets/virtualschool/e-commerce-dataset/data).
 
 ### Data
-- **Customer Demographics:** `CustomerID`, `Gender`, `Country`
-- **Sales Transactions:** `InvoiceDate`, `InvoiceNumber`, `ProductID`, `Quantity`, `Price`, `Total`, `OrderStatus`, `Sales`
-- **Customer Interactions:** `TrafficSource`, `SessionDuration`, `DeviceCategory`, `Device`, `OS`
-- **Feedback:** `DeliveryRating`, `ProductRating`
+- **Customer Demographics:** `Customer ID`, `Gender`, `Country`
+- **Sales Transactions:** `Invoice Date`, `Invoice Number`, `Product ID`, `Quantity`, `Price`, `Revenue`,  `Sales`
+- **Customer Interactions:** `Traffic Source`, `Session Duration`, `Device Category`, `Device`, `OS`
+- **Feedback:** `Delivery Rating`, `Product Rating`
 
 ### Storage
 The data is stored in `.xlsx` format and is static.
@@ -39,7 +39,7 @@ The data is stored in `.xlsx` format and is static.
 ## Tools Used
 
 ### Power BI
-We have chosen Power BI for this project because it allows for quick updates and exploration of data. Power BI's robust visualization capabilities make it an ideal tool for analyzing and presenting complex datasets in a comprehensible manner.
+Power BI is used for this project because it allows for quick updates and exploration of data. Power BI's robust visualization capabilities make it an ideal tool for analyzing and presenting complex datasets in a comprehensible manner.
 
 
 
