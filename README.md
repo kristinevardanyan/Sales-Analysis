@@ -1,6 +1,6 @@
 # Food Consumption and CO2 Emissions Visualization with Excel
 <p align="center">
-  <img src="[https://i.pinimg.com/564x/97/45/32/974532256735d36455be790c89c05d0f.jpg](https://i.pinimg.com/originals/8e/76/4c/8e764c45640d96a461d67b193c772cb8.jpg)" alt="Food Consumption" width="400">
+  <img src="(https://i.pinimg.com/originals/8e/76/4c/8e764c45640d96a461d67b193c772cb8.jpg)" alt="Sales" width="400">
 </p>
 
 
